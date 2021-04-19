@@ -1,6 +1,6 @@
-> 💡 Tecnologias utilizadas no projeto - :
+> 💡 Tecnologias utilizadas no projeto :
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+
 <code><img height="20" src="https://camo.githubusercontent.com/74cf8e5373ddc049c50a893785fdb1724765bd76975815e58047520f8660ff2b/68747470733a2f2f6432656970397366336f6f3663322e636c6f756466726f6e742e6e65742f746167732f696d616765732f3030302f3030312f3037342f66756c6c2f6e6578746a732e706e67"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
@@ -17,7 +17,7 @@
 
 Este projeto está sendo desenvolvido no evento Next Level Week # 05 pela [Rocketseat](https://rocketseat.com.br/) 🚀&nbsp;💜
 
-O API NPS (Net Promoter Score), é uma api que contém avaliação de satisfação dos alunos que participarão NextLevelWeek 4.
+DevBriaso uma plataforma para publicação de um podcast independente com foco em tencologica mais papo viajante, criand uma fusão improvavel (ou não).
 
 ---
 
