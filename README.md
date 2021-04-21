@@ -16,9 +16,8 @@
 ## 💡 Sobre o Projeto
 
 Este projeto está sendo desenvolvido no evento Next Level Week # 05 pela [Rocketseat](https://rocketseat.com.br/) 🚀&nbsp;💜
-
 DevBriaso uma plataforma para publicação de um podcast independente com foco em tencologica mais papo viajante, criand uma fusão improvavel (ou não).
-
+Você pode visualiza o layout do projeto pelo [figma](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr/duplicate).
 ---
 
 ## 📚 Atividades realizadas
@@ -27,6 +26,13 @@ DevBriaso uma plataforma para publicação de um podcast independente com foco e
  - [x] Configuração de ambiente de desenvolvimento
  - [x] Introdução ao Next.js
 
+#### 1º dia
+ - [x] Criar estilos globais
+ - [x] Criação de componentes
+    - Header
+    - Player
+ - [x] Configuração das API
+ - [x] Crinado build do projeto 
 
 
 
@@ -39,7 +45,10 @@ DevBriaso uma plataforma para publicação de um podcast independente com foco e
   Diogou explico como o Next.js funciona e sobre o SSR (Serve-side rendering) e SSG (Static site generation).
 </details>
 
-
+<details>
+  <summary>✨ Aula 02 - Maximum Speed </summary>
+A decolagem foi um sucesso e agora é hora de avançar com velocidade máxima rumo ao nosso objetivo.
+</details>
 ---
 
 ## 📣 O que é Next Level Week?
