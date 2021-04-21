@@ -32,7 +32,7 @@ Você pode visualiza o layout do projeto pelo [figma](https://www.figma.com/file
     - Header
     - Player
  - [x] Configuração das API
- - [x] Crinado build do projeto 
+ - [x] Build do projeto 
 
 
 
