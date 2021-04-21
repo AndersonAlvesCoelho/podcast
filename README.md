@@ -1,6 +1,5 @@
 > 💡 Tecnologias utilizadas no projeto :
 
-
 <code><img height="20" src="https://camo.githubusercontent.com/74cf8e5373ddc049c50a893785fdb1724765bd76975815e58047520f8660ff2b/68747470733a2f2f6432656970397366336f6f3663322e636c6f756466726f6e742e6e65742f746167732f696d616765732f3030302f3030312f3037342f66756c6c2f6e6578746a732e706e67"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
@@ -18,23 +17,31 @@
 Este projeto está sendo desenvolvido no evento Next Level Week # 05 pela [Rocketseat](https://rocketseat.com.br/) 🚀&nbsp;💜
 DevBriaso uma plataforma para publicação de um podcast independente com foco em tencologica mais papo viajante, criand uma fusão improvavel (ou não).
 Você pode visualiza o layout do projeto pelo [figma](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr/duplicate).
+
 ---
 
 ## 📚 Atividades realizadas
 
 #### 1º dia
- - [x] Configuração de ambiente de desenvolvimento
- - [x] Introdução ao Next.js
 
-#### 1º dia
- - [x] Criar estilos globais
- - [x] Criação de componentes
-    - Header
-    - Player
- - [x] Configuração das API
- - [x] Build do projeto 
+- [x] Configuração de ambiente de desenvolvimento
+- [x] Introdução ao Next.js
 
+#### 2º dia
 
+- [x] Criar estilos globais
+- [x] Criação de componentes
+  - Header
+  - Player
+- [x] Configuração das API
+- [x] Build do projeto
+
+#### 3º dia
+
+- [x] Criação de página:
+  - Home
+  - Episódio
+- [x] Roteamento com Next.js
 
 ## Resumos da semanas
 
@@ -48,6 +55,13 @@ Você pode visualiza o layout do projeto pelo [figma](https://www.figma.com/file
 <details>
   <summary>✨ Aula 02 - Maximum Speed </summary>
 A decolagem foi um sucesso e agora é hora de avançar com velocidade máxima rumo ao nosso objetivo.
+Eu já tinha ouvido e pesquisa sobre SASS, mas do jeito que o Diego Schell Fernandes introduziu foi perfeito, até estou aderido hehee. Não posso deixa de fala sobre a ferramenta "server-json", ótima para realização de testes com apis fake e também tem os métodos de renderização de apis, SPA, SSR e SSG.
+</details>
+
+<details>
+  <summary>✨ Aula 03 - In Orbit </summary>
+Estamos em órbita, explorando um universo infinito, repleto de novos conhecimentos.
+
 </details>
 ---
 
