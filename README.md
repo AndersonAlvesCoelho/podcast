@@ -22,13 +22,11 @@ Você pode visualiza o layout do projeto pelo [figma](https://www.figma.com/file
 
 ## 📚 Atividades realizadas
 
-#### 1º dia
-
+1º dia
 - [x] Configuração de ambiente de desenvolvimento
 - [x] Introdução ao Next.js
 
-#### 2º dia
-
+2º dia
 - [x] Criar estilos globais
 - [x] Criação de componentes
   - Header
@@ -36,14 +34,18 @@ Você pode visualiza o layout do projeto pelo [figma](https://www.figma.com/file
 - [x] Configuração das API
 - [x] Build do projeto
 
-#### 3º dia
-
+3º dia
 - [x] Criação de página:
   - Home
   - Episódio
 - [x] Roteamento com Next.js
 
-## Resumos da semanas
+4º dia
+- [x] Criando Context API
+- [x] Funcionalidade do Play do Podcast
+
+
+<!-- ## Resumos da semanas
 
 <details>
   <summary>✨ Aula 01 - Liftoff </summary>
@@ -63,7 +65,12 @@ Eu já tinha ouvido e pesquisa sobre SASS, mas do jeito que o Diego Schell Ferna
 Estamos em órbita, explorando um universo infinito, repleto de novos conhecimentos.
 
 </details>
----
+
+<details>
+  <summary>✨ Aula 04 - Landing </summary>
+ É hora de pousar em um novo planeta.
+</details>
+--- -->
 
 ## 📣 O que é Next Level Week?
 
