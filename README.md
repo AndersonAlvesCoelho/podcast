@@ -8,14 +8,14 @@
 
 <div align="center">
     <img alt="NPS" title="NPS" height="50" src="https://cdn.logojoy.com/wp-content/uploads/20200407113514/podcast.png" />
-<h3>Dev Brisado - Podcast</h3>
+<h3>Podcast</h3>
 <img height="100"  src="https://hackagenda.com.br/wp-content/uploads/2021/03/nlw.png">
 </div>
 
 ## 💡 Sobre o Projeto
 
 Este projeto está sendo desenvolvido no evento Next Level Week # 05 pela [Rocketseat](https://rocketseat.com.br/) 🚀&nbsp;💜
-DevBriaso uma plataforma para publicação de um podcast independente com foco em tencologica mais papo viajante, criand uma fusão improvavel (ou não).
+Podocast uma plataforma para publicação de um podcast independente com foco em tencologica mais papo viajante, criand uma fusão improvavel (ou não).
 Você pode visualiza o layout do projeto pelo [figma](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr/duplicate).
 
 ---
