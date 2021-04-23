@@ -29,20 +29,29 @@ Você pode visualiza o layout do projeto pelo [figma](https://www.figma.com/file
 2º dia
 - [x] Criar estilos globais
 - [x] Criação de componentes
-  - Header
-  - Player
+  - [x] Header
+  - [x] Player
 - [x] Configuração das API
 - [x] Build do projeto
 
 3º dia
 - [x] Criação de página:
-  - Home
-  - Episódio
+  - [x] Home
+  - [x] Episódio
 - [x] Roteamento com Next.js
 
 4º dia
 - [x] Criando Context API
 - [x] Funcionalidade do Play do Podcast
+
+5º dia
+- [x] Controlers do play
+  - [x] Próximo e anteriro
+  - [x] Loop
+  - [x] Shuffle
+  - [x] Tempo atual
+  - [x] Slider
+  -
 
 
 <!-- ## Resumos da semanas

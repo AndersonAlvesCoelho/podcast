@@ -25,7 +25,7 @@
   footer {
     align-self: stretch;
 
-    &.empty {
+    &.empty .progress {
       opacity: 0.5;
     }
   }
@@ -105,11 +105,23 @@
 
     &:disabled {
       cursor: default;
+      opacity: 0.5;
     }
 
     &:hover:not(:disabled) {
       filter: brightness(0.7);
     }
+
+    //NÃO É GABIARRA É MAGICA.
+    //Mudar a cor do svg
+    &.isActive {
+      filter: invert(0.35) sepia(1) saturate(3) hue-rotate(100deg);
+    }
+
+    &.isActiv:hover {
+      filter: brightness(0.6) invert(0.35) sepia(1) saturate(3) hue-rotate(100deg);
+    }
+
 
     &.playButton {
       width: 4rem;
