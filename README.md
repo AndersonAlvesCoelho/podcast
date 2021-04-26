@@ -1,21 +1,29 @@
 > 💡 Tecnologias utilizadas no projeto :
 
 <code><img height="20" src="https://camo.githubusercontent.com/74cf8e5373ddc049c50a893785fdb1724765bd76975815e58047520f8660ff2b/68747470733a2f2f6432656970397366336f6f3663322e636c6f756466726f6e742e6e65742f746167732f696d616765732f3030302f3030312f3037342f66756c6c2f6e6578746a732e706e67"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></code>
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrNOA3NJoe1jTieGFscwIvsbd0Jpm6oEE_gA&usqp=CAU"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-<code><img height="20" src="https://avatars3.githubusercontent.com/u/53234021?s=400&v=4"></code>
+<code><img height="20" src="https://hackagenda.com.br/wp-content/uploads/2021/03/nlw.png"></code>
 
 <div align="center">
     <img alt="NPS" title="NPS" height="50" src="https://cdn.logojoy.com/wp-content/uploads/20200407113514/podcast.png" />
-<h3>Dev Brisado - Podcast</h3>
-<img height="100"  src="https://hackagenda.com.br/wp-content/uploads/2021/03/nlw.png">
+<h3>Podcast</h3>
+</div>
+
+<div align="center">
+  <img src="./figma/Home.png" />
+</div>
+<div align="center">
+  <img src="./figma/Interna.png" />
 </div>
 
 ## 💡 Sobre o Projeto
 
 Este projeto está sendo desenvolvido no evento Next Level Week # 05 pela [Rocketseat](https://rocketseat.com.br/) 🚀&nbsp;💜
-DevBriaso uma plataforma para publicação de um podcast independente com foco em tencologica mais papo viajante, criand uma fusão improvavel (ou não).
+Podocast uma plataforma para publicação de um podcast independente com foco em tencologica mais papo viajante, criand uma fusão improvavel (ou não).
 Você pode visualiza o layout do projeto pelo [figma](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr/duplicate).
 
 ---
@@ -54,32 +62,34 @@ Você pode visualiza o layout do projeto pelo [figma](https://www.figma.com/file
   -
 
 
-<!-- ## Resumos da semanas
+## Instruções para visualizar o projeto
+### Requerimentos
 
-<details>
-  <summary>✨ Aula 01 - Liftoff </summary>
-  We're go for launch. É hora de decolar e partir rumo ao próximo nível. Esse é o começo da nossa missão.
-  Nesse comesso de missão, vamos começar configurando nosso ambiente de desenvolvimento, com algumas ferramentas fundamentais para chegarmos no fim desse evento com nosso app finalizado.
-  Diogou explico como o Next.js funciona e sobre o SSR (Serve-side rendering) e SSG (Static site generation).
-</details>
+- [Node.js](https://nodejs.org/en/download/)
 
-<details>
-  <summary>✨ Aula 02 - Maximum Speed </summary>
-A decolagem foi um sucesso e agora é hora de avançar com velocidade máxima rumo ao nosso objetivo.
-Eu já tinha ouvido e pesquisa sobre SASS, mas do jeito que o Diego Schell Fernandes introduziu foi perfeito, até estou aderido hehee. Não posso deixa de fala sobre a ferramenta "server-json", ótima para realização de testes com apis fake e também tem os métodos de renderização de apis, SPA, SSR e SSG.
-</details>
 
-<details>
-  <summary>✨ Aula 03 - In Orbit </summary>
-Estamos em órbita, explorando um universo infinito, repleto de novos conhecimentos.
+```bash
+    # Clone Repository
+    git clone https://github.com/AndersonAlvesCoelho/podcast
+    cd podcast
+```
 
-</details>
+#### 💻 Frontend
 
-<details>
-  <summary>✨ Aula 04 - Landing </summary>
- É hora de pousar em um novo planeta.
-</details>
---- -->
+```bash
+    #instale as dependências necessárias com:
+    npm i ou yarn
+    #agora start o projeto
+    npm start ou yarn start
+```
+
+#### 📦 Server
+
+```bash
+    #Com um outro cmd aberto, starta o server no mesmo diretorio no PlantManager
+    npm server ou yarn server
+```
+---
 
 ## 📣 O que é Next Level Week?
 
