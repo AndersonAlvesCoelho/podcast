@@ -11,7 +11,6 @@
 <div align="center">
     <img alt="NPS" title="NPS" height="50" src="https://cdn.logojoy.com/wp-content/uploads/20200407113514/podcast.png" />
 <h3>Podcast</h3>
-<<<<<<< HEAD
 </div>
 
 <div align="center">
@@ -19,9 +18,6 @@
 </div>
 <div align="center">
   <img src="./figma/Interna.png" />
-=======
-<img height="100"  src="https://hackagenda.com.br/wp-content/uploads/2021/03/nlw.png">
->>>>>>> a6e1af3ee0a38ed6ef3d8a3c8f1d341bfdf9c529
 </div>
 
 ## 💡 Sobre o Projeto
