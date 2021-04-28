@@ -1,4 +1,4 @@
-> 💡 Tecnologias utilizadas no projeto :
+> 💡 Ferramentas utilizadas no projeto :
 
 <code><img height="20" src="https://camo.githubusercontent.com/74cf8e5373ddc049c50a893785fdb1724765bd76975815e58047520f8660ff2b/68747470733a2f2f6432656970397366336f6f3663322e636c6f756466726f6e742e6e65742f746167732f696d616765732f3030302f3030312f3037342f66756c6c2f6e6578746a732e706e67"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></code>
@@ -8,16 +8,17 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 <code><img height="20" src="https://hackagenda.com.br/wp-content/uploads/2021/03/nlw.png"></code>
 
-<div align="center">
-    <img alt="NPS" title="NPS" height="50" src="https://cdn.logojoy.com/wp-content/uploads/20200407113514/podcast.png" />
-<h3>Podcast</h3>
-</div>
+<h1 align="center">
+  <img alt="podcastr" title="podcastr" src="./figma/logo.png" />
+</h1>
 
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
+
+ <img src="https://img.shields.io/static/v1?label=NLW&message=05&color=8257E5&labelColor=000000" alt="NLW 05" />
+</p>
 <div align="center">
   <img src="./figma/Home.png" />
-</div>
-<div align="center">
-  <img src="./figma/Interna.png" />
 </div>
 
 ## 💡 Sobre o Projeto
@@ -26,6 +27,34 @@ Este projeto está sendo desenvolvido no evento Next Level Week # 05 pela [Rocke
 Podocast uma plataforma para publicação de um podcast independente com foco em tencologica mais papo viajante, criand uma fusão improvavel (ou não).
 Você pode visualiza o layout do projeto pelo [figma](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr/duplicate).
 
+---
+
+## Instruções para visualizar o projeto
+### Requerimentos
+
+- [Node.js](https://nodejs.org/en/download/)
+
+```bash
+    # Clone Repository
+    git clone https://github.com/AndersonAlvesCoelho/podcast
+    cd podcast
+```
+
+#### 💻 Frontend
+
+```bash
+    #instale as dependências necessárias com:
+    npm i ou yarn
+    #agora start o projeto
+    npm start ou yarn start
+```
+
+#### 📦 Server
+
+```bash
+    #Com um outro cmd aberto, starta o server no mesmo diretorio no PlantManager
+    npm server ou yarn server
+```
 ---
 
 ## 📚 Atividades realizadas
@@ -61,34 +90,6 @@ Você pode visualiza o layout do projeto pelo [figma](https://www.figma.com/file
   - [x] Slider
   -
 
-
-## Instruções para visualizar o projeto
-### Requerimentos
-
-- [Node.js](https://nodejs.org/en/download/)
-
-
-```bash
-    # Clone Repository
-    git clone https://github.com/AndersonAlvesCoelho/podcast
-    cd podcast
-```
-
-#### 💻 Frontend
-
-```bash
-    #instale as dependências necessárias com:
-    npm i ou yarn
-    #agora start o projeto
-    npm start ou yarn start
-```
-
-#### 📦 Server
-
-```bash
-    #Com um outro cmd aberto, starta o server no mesmo diretorio no PlantManager
-    npm server ou yarn server
-```
 ---
 
 ## 📣 O que é Next Level Week?
