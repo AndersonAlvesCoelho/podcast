@@ -24,7 +24,7 @@
 ## 💡 Sobre o Projeto
 
 Este projeto está sendo desenvolvido no evento Next Level Week # 05 pela [Rocketseat](https://rocketseat.com.br/) 🚀&nbsp;💜
-Podocast uma plataforma para publicação de um podcast independente com foco em tencologica mais papo viajante, criand uma fusão improvavel (ou não).
+O podcastr é um app para reprodução de episódios em áudio do seu podcast favorito.
 Você pode visualiza o layout do projeto pelo [figma](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr/duplicate).
 
 ---
